@@ -5,4 +5,4 @@ Department: CSD
 Semester: 5
 Attendance: 85%
 Result: PASS
-Feature: Attendance Management
+Feature: Attendance ManagementGitHub Pull Request Practice

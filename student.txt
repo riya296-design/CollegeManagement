@@ -3,3 +3,5 @@ Student Name: Riya
 Roll Number: 101
 Department: CSD
 Semester: 5
+Attendance: 85%
+Result: PASS
